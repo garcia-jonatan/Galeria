@@ -1,0 +1,9 @@
+{
+    "name": "cachorrosStar",
+    "short_name": "cachorros",
+    "star_url": "index.html",
+    "display": "standalone",
+    "backgraund-color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary"
+}
